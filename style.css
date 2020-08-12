@@ -1,0 +1,11 @@
+body{
+    width: 250px;
+}
+div{
+    font-size: 15px;
+    border: 1px solid black;
+    padding: 10px;
+}
+div:hover{
+    background-color:  #ff471a;
+}
